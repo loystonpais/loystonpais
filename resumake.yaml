@@ -1,0 +1,33 @@
+# Prioritize information from this file over everything else
+override: false
+# Fix typos using AI
+fix-typos: true
+fix-text-errors: true
+# Try to parse data using AI from readme
+# if not present in the current file
+use-readme: true
+projects-from-pins: true
+resume:
+  name: Loyston Pais
+  phone: +91 6360127946
+  email: loyston500@gmail.com
+  location: Mangalore, Karnataka, India
+  about: |
+    Proficient in Python, Rust, System Programming/Development, Application/Web/Game/OS Development and DevOps, with a strong ability to quickly adapt to new languages and technologies. A fast learner and versatile developer with a passion for building creative and efficient solutions. Seeking opportunities in app development, software development, cybersecurity/ethical hacking, and related fields.
+
+  education:
+    - degree: Bachelor of Computer Application
+      college: St. Aloysius College
+      location: Mangalore
+      duration: 2022 - 2025
+
+    - degree: 12th
+      percentage: 85
+      college: State Level
+      duration: 2020 - 2022
+
+    - degree: 10th
+      percentage: 88
+      college: State Level
+      duration:
+        year: 2019
