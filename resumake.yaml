@@ -19,12 +19,16 @@ resume:
     - degree: Bachelor of Computer Application
       college: St. Aloysius College
       location: Mangalore
-      duration: 2022 - 2025
+      duration:
+        from: 2022
+        to: 2025
 
     - degree: 12th
       percentage: 85
       college: State Level
-      duration: 2020 - 2022
+      duration:
+        from: 2020
+        to: 2022
 
     - degree: 10th
       percentage: 88
