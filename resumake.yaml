@@ -17,17 +17,19 @@ resume:
   education:
     - degree: Bachelor of Computer Application
       college: St. Aloysius College (Autonomous)
-      location: Mangalore
+      location: Mangalore, Karnataka
       from: 2022
       to: 2025
 
     - degree: 12th
       percentage: 85
       college: State Level
+      location: Karnataka
       from: 2020
       to: 2022
 
     - degree: 10th
       percentage: 88
       college: State Level
+      location: Karnataka
       year: 2019
