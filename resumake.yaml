@@ -1,6 +1,6 @@
 state-version: 1
 use-profile-data: true
-use-readme-data: true
+use-readme-data: false
 use-pinned-projects: true
 fix-typos: true
 fix-text-errors: true
