@@ -1,12 +1,11 @@
-# Prioritize information from this file over everything else
-override: false
-# Fix typos using AI
+state-version: 1
+use-profile-data: true
+use-readme-data: true
+use-pinned-projects: true
 fix-typos: true
 fix-text-errors: true
-# Try to parse data using AI from readme
-# if not present in the current file
-use-readme: true
-projects-from-pins: true
+sort-skills: true
+sort-projects: true
 resume:
   name: Loyston Pais
   phone: +91 6360127946
@@ -17,21 +16,18 @@ resume:
 
   education:
     - degree: Bachelor of Computer Application
-      college: St. Aloysius College
+      college: St. Aloysius College (Autonomous)
       location: Mangalore
-      duration:
-        from: 2022
-        to: 2025
+      from: 2022
+      to: 2025
 
     - degree: 12th
       percentage: 85
       college: State Level
-      duration:
-        from: 2020
-        to: 2022
+      from: 2020
+      to: 2022
 
     - degree: 10th
       percentage: 88
       college: State Level
-      duration:
-        year: 2019
+      year: 2019
